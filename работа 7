@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <script src="lib/script.js"></script>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="lib/style.css">
+  </head>
+
+  <body>
+    <header class="page-header">
+    <p align="center"><font size="6">Мое портфолио</font></p>
+    </header>
+    <table border=1>
+      <tr>
+        <th>Контакты: savinova anja@jmail.com</th>
+        < <td align=center><img src="https://sun9-77.userapi.com/impg/w0Cflj5jAxF5aHlU1oMjr1OOOjwFPMiHYdB_0g/p-ykZ3ZqMwE.jpg?size=810x1080&quality=95&sign=6375416f73a69c8583ae096f04bba0f5&type=album" width=115 height=140></td></th>
+        <th>Интересующие направления: разработка ОП </th>
+      </tr>
+      <tr>
+        <td><p align=center>Желаемая профессия: Разработчик ОП</p></td>
+        <td><p align=center>Образование: ЯГТУ 09.03.02 "информационные системы и технологии"</p></td>
+        <td><p align=center>Навыки:публичные выступления</p></td>
+      </tr>
+      <tr>
+        <td><p align=center>Изучаемые языки программирования: С++</p></td>
+        <td><p align=center>о себе: 1,74 </p></td>
+        <td><p align=center>Интересы: фото</p></td>
+      </tr>
+    </table>
+  </body>
+</html>/
