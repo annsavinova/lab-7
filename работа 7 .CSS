@@ -1,0 +1,15 @@
+body {
+background-color: hsl(327, 100%, 94%);
+font-family: Arial;
+}
+th {
+font-size: 15px;
+color: #ff4800;
+}
+p {
+  font-size: 17px;
+  color: #fd5000;
+  list-style-type: square;
+  margin: 5%;
+  padding: 15px;
+}
